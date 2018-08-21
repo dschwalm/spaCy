@@ -3,9 +3,20 @@ from __future__ import unicode_literals
 
 
 STOP_WORDS = set("""
-a abban ahhoz ahogy ahol aki akik akkor akár alatt amely amelyek amelyekben
-amelyeket amelyet amelynek ami amikor amit amolyan amíg annak arra arról az
-azok azon azonban azt aztán azután azzal azért
+a abba abban abból addig ahhoz ahogy ahol aki akik akkor akár akként alatt alatta
+alattad alattam alattatok alattuk alattunk alá alább alábbi alád alája alájuk alám alánk alátok
+alól alóla alólad alólam alólatok alóluk alólunk alul ama amabba amabban amabból amahoz amannak amannál 
+amarra amarról amattól amaz amazért amazig amazok amazokat amazokba amazokban amazokból amazokért amazokhoz amazokig amazokká 
+amazokkal amazokként amazoknak amazoknál amazokon amazokra amazokról amazoktól amazt amazzá amazzal
+amely amelyből amelyek amelyekbe amelyekben amelyekből amelyeket amelyeken amelyekért amelyekhez
+amelyekig amelyekké amelyekkel amelyekként amelyeknek amelyeknél amelyekre amelyekről amelyektől
+amelyet amelyik amelyikbe amelyikben amelyikből amelyikért amelyiken amelyiket amelyikhez amelyikig amelyikké amelyikkel amelyikként 
+amelyiknél amelyiknek amelyikre amelyikről amelyiktől amelynek ami amibe amiben 
+amiből amiért amik amikbe amiket amiként amikkel amikor amikre amin aminél amire amiről amit amitől 
+amivel amivé 
+amolyan amott amíg annak annál arra arrébb arról az azok azokat azokba azokban azokból azokhoz azokig azokkal
+azokká azoknak azoknál azokon azokra azokról azoktól azokért azon azonban azonnal
+azt aztán azután azzal azzá azért 
 
 be belül benne bár
 
